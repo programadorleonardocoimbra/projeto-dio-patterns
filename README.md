@@ -17,10 +17,11 @@
 
 #### Responsável por centralizar a criação dos objetos de notificação.
 
+----
 ## 🎯 Strategy Pattern
-
 #### Permite alterar o tipo de envio de notificação dinamicamente.
 
+-----
 ### 🔒 Singleton Pattern
 
 Garante que exista apenas uma instância de configuração do sistema.
